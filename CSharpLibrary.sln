@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpLibrary", "CSharpLibrary\CSharpLibrary.csproj", "{D02F90A0-A460-446E-A7E4-300389F5D3FC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.0 FirstProgram", "CSharpLibrary\1.0 FirstProgram.csproj", "{D02F90A0-A460-446E-A7E4-300389F5D3FC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
